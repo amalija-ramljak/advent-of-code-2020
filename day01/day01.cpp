@@ -5,7 +5,7 @@
 
 int main() {
     std::vector<int> entries;
-    std::ifstream numbersFile("day1.txt");
+    std::ifstream numbersFile("day01.txt");
     int entry;
     while(!numbersFile.eof()) {
         numbersFile >> entry;
