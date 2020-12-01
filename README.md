@@ -4,4 +4,4 @@
 
 ----
 
-Day 01 - Bureaucracy
+Day 01 - Bureaucracy :star2: :star2:
