@@ -1,3 +1,7 @@
 # Advent of Code 2020
 
-Advent of Code 2020 solutions in C++
+### _Solutions in C++_
+
+----
+
+Day 01 - Bureaucracy
