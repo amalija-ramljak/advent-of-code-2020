@@ -37,8 +37,7 @@
 *.app
 
 ### VisualStudioCode ###
-.vscode/*
-*/.vscode/*
+.vscode/
 !.vscode/tasks.json
 !.vscode/launch.json
 *.code-workspace
@@ -51,5 +50,7 @@
 ### vscode ###
 !.vscode/settings.json
 !.vscode/extensions.json
+
+*/day??
 
 # End of https://www.toptal.com/developers/gitignore/api/c++,vscode,visualstudiocode
