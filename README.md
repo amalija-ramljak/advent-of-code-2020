@@ -12,7 +12,7 @@
 
 :eight_spoked_asterisk: :eight_spoked_asterisk: Day 01 - Bureaucracy
 
-:eight_pointed_black_star: :eight_pointed_black_star: Day 02
+:eight_spoked_asterisk: :eight_spoked_asterisk: Day 02 - Proofreading
 
 :eight_pointed_black_star: :eight_pointed_black_star: Day 03
 
