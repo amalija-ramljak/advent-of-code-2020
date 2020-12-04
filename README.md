@@ -14,9 +14,9 @@
 
 :eight_spoked_asterisk: :eight_spoked_asterisk: Day 02 - Proofreading
 
-:eight_spoked_asterisk: :eight_spoked_asterisk: Day 03 - Slopes
+:eight_spoked_asterisk: :eight_spoked_asterisk: Day 03 - Slippery Slope
 
-:eight_pointed_black_star: :eight_pointed_black_star: Day 04
+:eight_spoked_asterisk: :eight_spoked_asterisk: Day 04 - A Lesson in Trickery
 
 :eight_pointed_black_star: :eight_pointed_black_star: Day 05
 
