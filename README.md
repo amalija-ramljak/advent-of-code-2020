@@ -18,7 +18,7 @@
 
 :eight_spoked_asterisk: :eight_spoked_asterisk: Day 04 - A Lesson in Trickery
 
-:eight_pointed_black_star: :eight_pointed_black_star: Day 05
+:eight_spoked_asterisk: :eight_spoked_asterisk: Day 05 - The Power of Two
 
 :eight_pointed_black_star: :eight_pointed_black_star: Day 06
 
