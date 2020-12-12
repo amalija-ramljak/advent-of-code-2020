@@ -28,7 +28,7 @@
 
 :eight_spoked_asterisk: :eight_spoked_asterisk: Day 09 - Cracking Christmas
 
-:eight_pointed_black_star: :eight_pointed_black_star: Day 10
+:eight_spoked_asterisk: :eight_spoked_asterisk: Day 10 - Combinatorial Adapter Snake
 
 :eight_pointed_black_star: :eight_pointed_black_star: Day 11
 
