@@ -22,7 +22,7 @@
 
 :eight_spoked_asterisk: :eight_spoked_asterisk: Day 06 - Everyone's Paperwork
 
-:eight_pointed_black_star: :eight_pointed_black_star: Day 07
+:eight_spoked_asterisk: :eight_spoked_asterisk: Day 07 - Those Pointless Rules No One Understands
 
 :eight_pointed_black_star: :eight_pointed_black_star: Day 08
 
