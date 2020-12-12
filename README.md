@@ -24,7 +24,7 @@
 
 :eight_spoked_asterisk: :eight_spoked_asterisk: Day 07 - Those Pointless Rules No One Understands
 
-:eight_pointed_black_star: :eight_pointed_black_star: Day 08
+:eight_spoked_asterisk: :eight_spoked_asterisk: Day 08 - Gaming, Interrupted
 
 :eight_pointed_black_star: :eight_pointed_black_star: Day 09
 
