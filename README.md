@@ -34,7 +34,7 @@
 
 :eight_spoked_asterisk: :eight_spoked_asterisk: Day 12 - Sailing In Circles
 
-:eight_pointed_black_star: :eight_pointed_black_star: Day 13
+:eight_spoked_asterisk: :eight_spoked_asterisk: Day 13 - Public Transport Coordination
 
 :eight_pointed_black_star: :eight_pointed_black_star: Day 14
 
