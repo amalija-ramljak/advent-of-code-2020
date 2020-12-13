@@ -30,7 +30,7 @@
 
 :eight_spoked_asterisk: :eight_spoked_asterisk: Day 10 - Combinatorial Adapter Snake
 
-:eight_pointed_black_star: :eight_pointed_black_star: Day 11
+:eight_spoked_asterisk: :eight_spoked_asterisk: Day 11 - Predictable Asociality
 
 :eight_pointed_black_star: :eight_pointed_black_star: Day 12
 
