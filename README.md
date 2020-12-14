@@ -36,7 +36,7 @@
 
 :eight_spoked_asterisk: :eight_spoked_asterisk: Day 13 - Public Transport Coordination
 
-:eight_pointed_black_star: :eight_pointed_black_star: Day 14
+:eight_spoked_asterisk: :eight_spoked_asterisk: Day 14 - Outdated Adapter
 
 :eight_pointed_black_star: :eight_pointed_black_star: Day 15
 
