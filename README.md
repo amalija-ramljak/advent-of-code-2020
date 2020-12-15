@@ -38,7 +38,7 @@
 
 :eight_spoked_asterisk: :eight_spoked_asterisk: Day 14 - Outdated Adapter
 
-:eight_pointed_black_star: :eight_pointed_black_star: Day 15
+:eight_spoked_asterisk: :eight_spoked_asterisk: Day 15 - The Reach of Memory
 
 :eight_pointed_black_star: :eight_pointed_black_star: Day 16
 
