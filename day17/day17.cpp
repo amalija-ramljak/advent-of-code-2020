@@ -50,9 +50,7 @@ int main() {
     for(int task = 1; task < 3; task++) {
         active_positions_current = active_positions_input;
         second_task = task == 2;
-        std::cout << "Task " << task << std::endl;
         for(int cycle = 0; cycle < 6; cycle++) {
-            std::cout << "\tCycle " << cycle << std::endl;
             /** Outside loop, going over the area and then some */
             for(x = borders_x.first - 1; x <= borders_x.second + 1; x++) {
                 for(y = borders_y.first - 1; y <= borders_y.second + 1; y++) {
