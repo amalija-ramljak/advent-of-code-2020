@@ -40,7 +40,7 @@
 
 :eight_spoked_asterisk: :eight_spoked_asterisk: Day 15 - The Reach of Memory
 
-:eight_pointed_black_star: :eight_pointed_black_star: Day 16
+:eight_spoked_asterisk: :eight_spoked_asterisk: Day 16 - Crossing the Language Barrier
 
 :eight_pointed_black_star: :eight_pointed_black_star: Day 17
 
