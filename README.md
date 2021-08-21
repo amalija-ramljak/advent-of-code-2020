@@ -42,7 +42,7 @@
 
 :eight_spoked_asterisk: :eight_spoked_asterisk: Day 16 - Crossing the Language Barrier
 
-:eight_pointed_black_star: :eight_pointed_black_star: Day 17
+:eight_spoked_asterisk: :eight_spoked_asterisk: Day 17 - Infinite Energy
 
 :eight_pointed_black_star: :eight_pointed_black_star: Day 18
 
