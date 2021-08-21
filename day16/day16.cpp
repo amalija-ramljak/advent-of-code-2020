@@ -82,7 +82,7 @@ int main() {
             }
         }
     }
-    std::cout << "First task - ticket scanning error rate:" << std::endl << TSER << std::endl << std::endl;
+    std::cout << "First task - ticket scanning error rate" << std::endl << TSER << std::endl << std::endl;
 
     std::vector<std::pair<std::string, std::unordered_set<int>>> idx_list;
     int field_count = my_ticket.size();
@@ -128,5 +128,5 @@ int main() {
         }
     }
 
-    std::cout << std::endl << mul << std::endl;
+    std::cout << "Second task - multiple of all departure positions" << std::endl << mul << std::endl;
 }

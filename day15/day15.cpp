@@ -29,6 +29,6 @@ int main() {
 
         current_turn++;
     }
-    std::cout << "First task - 2020th number\n" << first << "\n\n";
-    std::cout << "Second task - 30000000th number\n" << most_recent << "\n\n";
+    std::cout << "First task - 2020th number" << std::endl << first << std::endl << std::endl;
+    std::cout << "Second task - 30000000th number" << std::endl << most_recent << std::endl;
 }
